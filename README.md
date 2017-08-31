@@ -14,7 +14,7 @@ $ chmod +x hello_world.sh
 In your `~/.bash_profile` (or `~/.bashrc` if you are using Linux) add the line
 
 ```
-YOUR_PATH_TO_REPO/bot_tmux.sh
+YOUR_PATH_TO_REPO/magic_box.sh
 ```
 and start a new shell. You should see 
 
