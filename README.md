@@ -1,5 +1,5 @@
 # magic-tmux-box
-Shell script which executes a program in a tmux non-duplicate detached session whenever your Terminal is open. 
+Shell script which executes a program in a detached session whenever your Terminal is open. Does not duplicate the session if it's already running.
 
 ## Quickstart
 
