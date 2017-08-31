@@ -1,8 +1,12 @@
+# Script written by Hang Lu Su and Wesley Aptekar-Cassels
+
+# HOW TO CUSTOMIZE:
+#
 # "magicbox" is the name of the session. 
 # Other example: "my_session"
 
 # "$DIR/hello_world.sh" is the path to the script you are executing. 
-# Other example: "python hello_world.py"
+# Other example: "python /YOUR_PATH/hello_world.py"
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
