@@ -37,4 +37,14 @@ If you want to attach magicbox within an active tmux session, you can unset $TMU
 unset TMUX
 ```
 
+## Customize Code
+
+The code is contained in `magic_box.sh`.
+
+"magicbox" is the name of the session. 
+Other example: "my_session"
+
+"$DIR/hello_world.sh" is the path to the script you are executing. 
+Other example: "python /YOUR_PATH/hello_world.py"
+
 ## Usage case: Twitter bot
