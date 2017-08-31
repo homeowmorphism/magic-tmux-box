@@ -37,7 +37,7 @@ If you want to attach magicbox within an active tmux session, you can unset $TMU
 unset TMUX
 ```
 
-## Customize Code
+## Customize the code
 
 The code is contained in `magic_box.sh`.
 
