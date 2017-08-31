@@ -53,4 +53,4 @@ Other example: `python /YOUR_PATH/hello_world.py`
 
 I use this code to run my Twitter bot, [the EL bot](https://twitter.com/@TheELBot), so whenever I open my terminal to do work,✨ hugs are given across the world 🌈. 
 
-This is why it's a magic box! Hope this code is useful as well. 
+This is why it's a magic box! Hope this code is useful to you as well. 
