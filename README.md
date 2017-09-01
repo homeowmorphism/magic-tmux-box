@@ -1,4 +1,7 @@
 # magic-tmux-box
+
+*Status: polished.*
+
 Shell script which executes a program in a detached tmux session whenever your Terminal is open. Does not duplicate the session if it's already running.
 
 ## Run
