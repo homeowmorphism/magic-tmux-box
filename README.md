@@ -60,4 +60,4 @@ This is why it's a magic box! Hope this code is useful to you as well.
 
 ## Acknowledgements
 
-This code was written in the company of [Wesley Aptekar-Cassels](https://github.com/WesleyAC) at the [Recurse Center](https://github.com/recursecenter).
+This code was written in the company of [Wesley Aptekar-Cassels](https://github.com/WesleyAC) during my retreat at the [Recurse Center](https://github.com/recursecenter).
